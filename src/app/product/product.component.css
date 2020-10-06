@@ -1,0 +1,11 @@
+h2{
+    font-size-adjust: initial;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:red;
+}
+.img{
+  width:300px;
+  max-width:400px;
+  height:auto;
+}
+
